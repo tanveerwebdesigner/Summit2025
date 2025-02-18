@@ -1,0 +1,491 @@
+@media screen and (max-width:1920px) {
+
+}
+@media screen and (max-width:1599px) {
+ .navbar-expand-sm .navbar-nav .nav-link {
+    margin: 0 24px;
+}
+	.techlogo {
+    width: 308px;
+}
+.ibxa img {
+    width: 118px;
+}
+    .riglbx {
+
+    margin: 34px 0 0 2%;
+}
+	.ibxa span {
+    min-height: 36px;
+    line-height: 14px;
+    font-size: 13px;
+}
+	.headboxa {
+    font-size: 36px;
+    line-height: 39px;
+}
+	.lobox img {
+    height: 40px;
+}
+	.lboxadef span {
+    font-size: 22px;
+}
+	.niitbaone p {
+    font-size: 18px;
+    line-height: 24px;
+    width: 76%;
+}
+	.aboxa {
+    margin: 0 40px 0 0;
+}
+
+
+.rdbx span {
+    min-height: 149px;
+}}
+@media screen and (max-width:1366px) {
+
+
+.rigode {
+    width: 44%;
+    padding-top: 6%;
+}
+.lefovda {
+    width: 49%;
+    margin: 0 6% 0 0;
+}
+.owl-carousel .owl-item #growthsummit img.bgimgd {
+    object-fit: cover;
+    height: 686px;
+}
+.tediew {
+    width: 66%;
+}}
+@media screen and (max-width:1280px) {
+	.navbar-expand-sm .navbar-nav .nav-link {
+    margin: 0 9px;
+}
+	.headboxa {
+    font-size: 30px;
+    line-height: 33px;
+}
+	.leboxa p {
+    font-size: 22px;
+    line-height: 29px;
+    margin: 0 0 51px 0;
+}
+	.tbr, .btnale {font-size: 20px;}
+	.lobox img {
+    height: 30px;
+}
+	.lboxadef span {
+    font-size: 19px;
+}
+	.niitbaone p {
+    font-size: 16px;
+    line-height: 21px;
+    width: 78%;
+}
+	.rdbx span {
+    font-weight: 300;
+    line-height: 22px;
+}
+	.teobdahead ul li:nth-child(2) {
+    width: 56%;
+}
+	.aboxa {
+    margin: 0 33px 0 0;
+}
+ 
+
+.ibxa {
+    width: 17%;
+}
+.ibxa img {
+    width: 95px;
+}
+.ibxa span {
+    font-size: 11px;
+}
+.niiteox {
+    background: #dddddd;
+    color: #000;
+    padding: 32px 0;
+}}
+@media screen and (max-width:1169px) {
+	
+	.niitbaone p {
+    font-size: 16px;
+    line-height: 19px;
+    width: 74%;
+}
+    
+ .lefovda p {
+    font-size: 16px;
+    line-height: 19px;
+}
+	.bgimgd {
+    width: 100%;
+    object-fit: cover;
+    height: 663px;
+}
+	
+#speakers, #editoinsl {width: 90%; margin:0 auto;}
+
+	
+  }
+@media screen and (max-width:991px) {
+.leboxa {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+}
+	.leboxa br {display: none;}
+	.headboxa {
+    font-size: 27px;
+    line-height: 27px;
+}
+	.leboxa p {
+    margin: 0 0 20px 0;
+}
+	.riglbx {
+    display: block;
+    width: 100%;
+    margin: 30px 0 0 0;
+}
+	.ctabx {
+    margin: 26px 0;
+}
+	.tbr, .btnale {
+    font-size: 17px;
+}
+	.lboxadef {
+    width: 100%;
+    display: block;
+    vertical-align: top;
+    margin: 10px 0;
+    text-align: center;
+}
+	.lboxadef span {
+    font-size: 16px;
+    display: block;
+    margin: 0 0 3px 0;
+    font-weight: 600;
+}
+	.lobox i {
+    height: 26px;
+}
+	.niitbaone p {
+    width: 100%;
+}
+	.niitbredsrt { padding: 0 0 10px;}
+	.bgimgd {
+    width: 100%;
+    object-fit: cover;
+    height: auto;
+}
+	.niitbaone .container {
+    position: relative;
+    top: 25px;
+    left: 0;
+    right: 0;
+}
+    .niitbaone {
+        position: relative;
+        background: #f9e6cf;
+    }
+	.rdbx span {padding: 15px;}
+	.aboxa {
+    margin: 0 23px 0 0;
+}
+	.imba {
+    margin: -73px 0 0 0;
+}
+	.bgoda {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 32px;
+}
+	.allhead {
+    font-size: 23px;
+    margin: 0 0 7px 0;
+}
+	.ablef {font-size: 23px;}
+	
+	p {
+    font-size: 16px;
+    line-height: 23px;
+}
+	.niitbasix {
+    padding: 30px 0 0;
+}
+#editoinsl {
+    padding: 25px 0;
+}
+	.niitbafive .nav.nav-tabs .nav-item .nav-link {
+    font-size: 21px;
+    padding: 8px 0;
+}
+	.spebx span {font-size: 19px;}
+	.spebx span em {margin: 0;}
+
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {width: 30px;}
+
+.lefovda {
+    width: 100%;
+    margin: 0 0 20px 0;
+}
+.rigode {
+    width: 100%;
+    padding-top: 0;
+}
+.owl-carousel .owl-item #growthsummit img.bgimgd {
+    object-fit: cover;
+    height: 612px;
+}
+.tediew {
+    width: 100%;
+    margin: 0 0 64px 0;
+}
+
+.rdbx span {
+    min-height: 127px;
+}}
+
+
+@media screen and (max-width:767px) {
+	    .rdbx span {
+        min-height: 141px;
+			        line-height: 21px;
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:640px) {
+	.niitbatwo {
+    padding: 30px 0;
+}
+	.owl-carousel {
+    width: 80%;
+		margin:  0 auto;
+}
+	.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {    left: -30px;}
+	.owl-carousel .owl-nav button.owl-next {
+    position: absolute;
+    right: -30px;
+    left: auto;
+}
+	.teobdahead {
+    display: none;
+	}.tblcl ul {display: block;}
+	.tblcl ul li,  .tblcl ul li:last-child, .tblcl ul li:first-child, .tblcl ul li:nth-child(2) {width: 100%; display: block; min-height: auto; padding: 8px;}
+	.tblcl ul li span {
+    display: block;
+    font-weight: 500;
+    color: #fff;
+    background: #81172e;
+    padding: 1px 20px;
+    width: fit-content;
+}
+.tblcl ul li:first-child:after {
+    content: "";
+    background: url(../images/yl-aroow.webp) no-repeat left top/ cover;
+    position: absolute;
+    top: auto;
+    height: 35px;
+    width: 13px;
+    right: auto;
+    z-index: 222;
+    bottom: -20px;
+    left: 50%;
+    margin: 0 auto;
+    transform: rotate(90deg);
+}
+	.tblcl {
+    display: block;
+    margin-bottom: 26px;
+}
+	.niitbathree {
+    padding: 25px 0 10px;
+    
+}
+	.niitbafour {padding: 30px 0;}
+	.vodebx img {
+    width: 100%;
+}
+	#editoinsl .owl-item.center .item img {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+#editoinsl .owl-item .item img {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+	.aboxa {
+    margin: 0;
+    width: 100%;
+}
+	.niitbafour .allhead span, .niitbasix .allhead span {
+    background: #ffcc07;
+    margin: 5px auto 17px;
+}
+	.bgoda {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 25px;
+}
+	.bgoda a img {
+    width: 20px;
+}
+
+.ibxa img {
+    width: 73px;
+}
+
+#sliderb.owl-carousel .owl-item img.bmolebner {
+    display: block;
+    width: 100%;
+}
+
+
+#sliderb.owl-carousel .owl-item img.destobner {
+    display: none;
+    width: 100%;
+}
+#sliderb.owl-carousel .owl-item img.bmolebner {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.owl-carousel .owl-item #growthsummit img.bgimgd {
+    object-fit: cover;
+    height: 571px;
+}
+	    .niitbafive .nav.nav-tabs .nav-item .nav-link {
+        font-size: 16px;
+        padding: 8px 0;
+        font-weight: 600;
+    }
+
+    .rdbx span {
+        min-height: 101px;
+    }}
+@media screen and (max-width:479px) {
+	.foxa br {display: none;}
+	.ibxa {
+    width: 30%;
+    margin: 1%;
+}
+	.techlogo {
+    width: 177px;
+}
+	.tbr, .btnale {
+    font-size: 14px;
+    margin: 6px 0;
+}
+	[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    background: #fff;
+}
+	.navbar-collapse {
+    width: 100%;
+}
+	.navbar-expand-sm .navbar-nav .nav-link {
+    margin: 0;
+}
+	.ctabx {
+    margin: 13px 0 26px;
+}
+	.niitbaone p {
+    font-size: 16px;
+    line-height: 23px;
+}
+
+.ridbox {
+    font-size: 15px;
+    padding: 3px 30px;
+    margin: 10px auto 0;
+ 
+}
+
+
+.ibxa img {
+    width: 101px;
+}
+
+
+.niitbafive .nav.nav-tabs .nav-item .nav-link {
+    font-size: 15px;
+    padding: 8px 0;
+}
+.eventdate {
+    font-size: 21px;
+}
+.time {
+    color: #ffcc07;
+    font-size: 3em;
+}
+.navbar.navbar-expand-sm {
+    padding: 20px 0;
+}
+
+
+.owl-carousel .owl-item #growthsummit img.bgimgd {
+        object-fit: cover;
+        height: 264px;
+    }
+#sliderb.owl-carousel .owl-item img.bmolebner {
+    height: 1167px;
+	object-fit: contain;
+}
+.arrowbie .owl-carousel .owl-nav button.owl-next, .arrowbie .owl-carousel .owl-nav button.owl-prev {
+    left: auto;
+    right: 0;
+    z-index: 222;
+    top: 0;
+}
+	.arrowbie .owl-carousel .owl-nav button.owl-prev {   right: 10%;}
+
+
+    .rdbx span {
+        min-height: 117px;
+    }}
+@media screen and (max-width:440px) {
+    .ibxa img {
+    width: 112px;
+}
+    .ibxa span {
+    min-height: 30px;
+    line-height: 11px;
+    font-size: 10px;
+}
+.rdbx span {
+    line-height: 22px;
+	font-size: 16px;
+}
+    .owl-carousel .owl-item #growthsummit img.bgimgd {
+        object-fit: cover;
+        height: 202px;
+    }
+#sliderb.owl-carousel .owl-item img.bmolebner {
+    height: 1081px;
+    object-fit: contain;
+}
+    .rdbx span {
+        min-height: 142px;
+    }}
+@media screen and (max-width:380px) {
+    .ibxa img {
+    width: 99px;
+}
+
+    .owl-carousel .owl-item #growthsummit img.bgimgd {
+        object-fit: cover;
+        height: 176px;
+    }}
+@media screen and (max-width:359px) {}
+@media screen and (max-width:320px) {}
